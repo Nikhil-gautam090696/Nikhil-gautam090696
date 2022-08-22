@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/nikhil09061996" target="blank"><img src="https://img.shields.io/twitter/follow/nikhil09061996?logo=twitter&style=for-the-badge" alt="nikhil09061996" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **everything 😉**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nikhilgautam69@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **I like to try any DIY.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
